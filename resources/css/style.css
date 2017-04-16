@@ -5,22 +5,28 @@ body {
 
 .header {
   color: white;
-  background-image: url("../images/the-flatiron-building.png")
+  background-image: url("../images/the-flatiron-building.png");
+  background-position: center;
 }
 
 .title {
   font-size: 70px;
   color: white;
 }
-.top_nav a {
+.nav {
   color: white;
   font-size: 18px;
 }
 
-.sub_content h2{
+.sub_content {
   color: white;
-  background-image: url("../images/the-flatiron-building.png")
-  font-size: 23px;
+  background-image: url("../images/the-flatiron-building.png");
+  background-position: center;
+}
+.footer {
+  color: white;
+  font-size: 11px;
+  background-color: dimgray;
 }
 
 h2 {
